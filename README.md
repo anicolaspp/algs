@@ -1,2 +1,4 @@
 # algs
-Some classic algorithms in python
+Some classic algorithms in python.
+
+- Aticulation Point (of a graph)
